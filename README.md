@@ -1,23 +1,8 @@
 # Netflix-clon_DevSecOps
 
-Hello everyone, in this project we will carry out the deployment of an application with a realistic enterprise structure.
 
-It will consist of two phases:
+Before starting, I must give my greatest credit to Mr. Cloud Book, as this project would not be possible without him. The first phase is a copy of his project. I will leave both his blog https://mrcloudbook.com/netflix-clone-ci-cd-with-monitoring-email-devsecops/ and his YouTube channel https://www.youtube.com/watch?v=pbGA-B_SCVk&t=3930s so you can follow the entire process 😁.
 
-🚀 Phase 1: Foundation and Initial Deployment
-In the first phase, we will configure technologies such as:
+I could create a guide and a video myself for this first phase, but honestly, I think the guide he has already created is more than well thought out and ready to use. However, if you are new to this world or have never done anything similar (as was my case), don't think that even with a guide it will be easy, because the reality is that it is complicated to understand and execute. But if you dedicate effort to it, everything will eventually work out 🚀.
 
-AWS, Docker, Git, and Kubernetes for the backend and scalability.
-
-Trivy, OWASP, and SonarQube to add a robust security layer.
-
-Grafana and Prometheus to monitor everything necessary, including sending alerts to a pre-configured Gmail address.
-
-All of this will be supported by our continuous integration tool, which in this case will be Jenkins.
-
-🌟 Phase 2: Automation and Advanced Monitoring
-Once the foundation is achieved, we will move on to the second phase where we will:
-
-Add the use of Zabbix to achieve robust and high-level monitoring.
-
-Finally, we will automate our project as much as possible with the use of tools like Terraform, Ansible, and Python.
+Lastly, I want to tell you that in this first phase, to add my own touch, I will summarize the project and demonstrate its functionality in a video in Spanish, as it is my native language. This is in case I can help make everything clearer for Spanish speakers.
