@@ -7,4 +7,4 @@ I could create a guide and a video myself for this first phase, but honestly, I 
 
 Lastly, I want to tell you that in this first phase, to add my own touch, I will summarize the project and demonstrate its functionality in a video in Spanish, as it is my native language. This is in case I can help make everything clearer for Spanish speakers.
 
-<img width="758" height="477" alt="netflixclone" src="https://github.com/user-attachments/assets/0b5178d9-f6c7-4716-92f7-f721f6117373" />
+<img width="766" height="396" alt="netflixclone" src="https://github.com/user-attachments/assets/a3c0178d-476d-420f-a992-728cd20d2135" />
