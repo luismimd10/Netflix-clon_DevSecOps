@@ -5,6 +5,6 @@ Before starting, I must give my greatest credit to Mr. Cloud Book, as this proje
 
 I could create a guide and a video myself for this first phase, but honestly, I think the guide he has already created is more than well thought out and ready to use. However, if you are new to this world or have never done anything similar (as was my case), don't think that even with a guide it will be easy, because the reality is that it is complicated to understand and execute. But if you dedicate effort to it, everything will eventually work out 🚀.
 
-Lastly, I want to tell you that in this first phase, to add my own touch, I will summarize the project and demonstrate its functionality in a video in Spanish, as it is my native language. This is in case I can help make everything clearer for Spanish speakers.
+Lastly, I want to tell you that in this first phase, to add my own touch, I will summarize the project and demonstrate its functionality in a video in Spanish https://youtu.be/t1SlFOzWxZ8 , as it is my native language. This is in case I can help make everything clearer for Spanish speakers.
 
 <img width="766" height="396" alt="netflixclone" src="https://github.com/user-attachments/assets/a3c0178d-476d-420f-a992-728cd20d2135" />
